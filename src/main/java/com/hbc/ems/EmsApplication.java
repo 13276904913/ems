@@ -15,7 +15,6 @@ import org.springframework.http.converter.HttpMessageConverter;
 public class EmsApplication {
 
     public static void main(String[] args) {
-        System.out.println("你好,我是你爸爸");
         SpringApplication.run(EmsApplication.class, args);
     }
 
